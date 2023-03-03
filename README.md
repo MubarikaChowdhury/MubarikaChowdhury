@@ -6,5 +6,5 @@
 -   👯 I'm looking to collaborate on R package development
 -   🌱 My current research focus is Survival Analysis 
 -   💬 Ask me about Statistics and R
--   📫 How to reach me: [Linkedin](linkedin.com/in/sultana-mubarika-rahman-chowdhury-3a4876155)
+-   📫 How to reach me: [Linkedin](linkedin.com/in/sultana-mubarika-rahman-chowdhury-3a4876155/)
 -   ⚡ Fun fact: I  am  into DIY's and  Crafting 🎨
